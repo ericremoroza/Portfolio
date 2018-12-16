@@ -19,3 +19,7 @@ body, html {
 .about-img {
     width:100%;
 }
+
+#portfolio {
+    background-color: gray;
+}
