@@ -1,3 +1,3 @@
-# Personal Website
+# Personal Website (Version 1)
 
-Click [here](https://ericremoroza.github.io).
+<!-- Click [here](https://ericremoroza.github.io). -->
